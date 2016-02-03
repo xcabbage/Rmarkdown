@@ -18,10 +18,10 @@ necessary new row!!!!
 ---
 
 * 1. change
-* 2. commit in R and comment
-* 3. push to git
-Hhlkhlkhl
-
+* 2. commit in R and comment it
+* 3. push to git (pw or with SSH:
+->generate in R / Tools/Global options/Git-SVN/create RSA (find the git exe locally)
+->copy it git profile/setting/SSH key/new -> copy here
 ---
 
 ```{r,echo=FALSE}
