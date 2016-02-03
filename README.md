@@ -12,6 +12,11 @@ Kaposztassy_Gabor@student.ceu.edu
 * c
 ---
 
+---
+* 1. change
+* 2. commit in R and comment
+* 3. push to git
+
 ```{r,echo=FALSE}
 library(pander)
 lm(mpg ~ wt, data=mtcars)
