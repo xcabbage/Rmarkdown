@@ -1,0 +1,22 @@
+# Rmarkdown
+
+http://54.93.94.196/auth-sign-in
+
+Kaposztassy_Gabor@student.ceu.edu
+
+
+---
+* a
+* b
+* c
+---
+
+```{r,echo=FALSE}
+library(pander)
+lm(mpg ~ wt, data=mtcars)
+summary(lm(mpg ~ wt, data=mtcars))
+
+pander(summary(lm(mpg ~ wt, data=mtcars)))
+pander(lm(mpg ~ wt, data=mtcars), caption = 'foobar')
+
+```
