@@ -7,15 +7,22 @@ Kaposztassy_Gabor@student.ceu.edu
 **BOLD** and *italics*
 
 ---
+
+necessary new row!!!!
 * a
 * b
 * c
+
 ---
 
 ---
+
 * 1. change
 * 2. commit in R and comment
 * 3. push to git
+Hhlkhlkhl
+
+---
 
 ```{r,echo=FALSE}
 library(pander)
